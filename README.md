@@ -1,5 +1,5 @@
 - 👋 Hi, I am JoAnn Vuong.
-- 👀 I’m interested in bioinformatics and machine learning.
+
 
 
 <!---
